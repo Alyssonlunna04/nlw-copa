@@ -12,14 +12,12 @@ Evento exclusivo e gratuito, promovido pela Rocketseat para ensino de tecnologia
 </p>
 
 <p align="center">
-  <img alt="License" src="https://img.shields.io/static/v1?label=license&message=MIT&color=49AA26&labelColor=000000%22%3E
+  
 </p>
 
 <br>
 
-<p align="center">
-  <img alt="Calendário Da Copa" src=".github/Capa.png" width="100%">
-</p>
+
 
 ##  Tecnologias
 
@@ -32,6 +30,15 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 ##  Projeto
 
 O Calendário da copa é um caléndario que mostra os jogos da copa de 2022 .
+
+##  Layout
+
+Você pode visualizar o layout do projeto através [DESSE LINK](https://www.figma.com/file/yLPMXVthcunTWd4b3wnxyi/Calend%C3%A1rio-de-Jogos-(Community)?node-id=301%3A1812). É necessário ter conta no [Figma](https://figma.com/) para acessá-lo.
+
+##  Licença
+
+Esse projeto está sob a licença MIT.
+
 
 ##  Layout
 
